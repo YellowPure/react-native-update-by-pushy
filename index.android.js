@@ -28,6 +28,7 @@ import {
   markSuccess,
 } from 'react-native-update';
 
+
 import UpdateConfig from './update.json';
 const {appKey} = UpdateConfig[Platform.OS];
 
@@ -82,7 +83,7 @@ class AwesomeProject extends Component {
           欢迎使用热更新服务
         </Text>
         <Text style={styles.instructions}>
-          这是版本二 {'\n'}
+          这是版本三 {'\n'}
           当前包版本号: {packageVersion}{'\n'}
           当前版本Hash: {currentVersion||'(空)'}{'\n'}
         </Text>
