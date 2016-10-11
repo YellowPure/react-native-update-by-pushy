@@ -11,6 +11,7 @@
     "react": "15.3.2",
     "react-native": "0.34.0",
     "react-native-file-transfer": "0.0.3",
+    "react-native-maps": "^0.10.1",
     "react-native-update": "^3.0.2",
     "react-native-zip": "^1.0.0"
   }
