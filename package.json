@@ -6,8 +6,6 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "@remobile/react-native-cordova": "^1.0.9",
-    "@remobile/react-native-file-transfer": "^1.0.5",
     "react": "15.3.2",
     "react-native": "0.34.0",
     "react-native-file-transfer": "0.0.3",
